@@ -46,6 +46,9 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/lemec/Downloads/JAR/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="lib" path="/home/lemec/Documents/GitHub/Signalement/postgresql-42.2.22.jar"/>
+	<classpathentry kind="lib" path="/home/lemec/Documents/GitHub/Signalement/mysql-connector-java-8.0.25.jar"/>
+	<classpathentry kind="lib" path="/home/lemec/Documents/GitHub/Signalement/javax.mail-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/lemec/Documents/GitHub/Signalement/activation-1.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
